@@ -83,6 +83,7 @@
 -r:"/Users/wgfarrell/.nuget/packages/System.Xml.ReaderWriter/4.3.0/ref/netstandard1.3/System.Xml.ReaderWriter.dll"
 -r:"/Users/wgfarrell/.nuget/packages/System.Xml.XDocument/4.3.0/ref/netstandard1.3/System.Xml.XDocument.dll"
 "/Users/wgfarrell/devbootcamp/csharp/hwapp/binarysearch.cs"
+"/Users/wgfarrell/devbootcamp/csharp/hwapp/fibonnacci.cs"
 "/Users/wgfarrell/devbootcamp/csharp/hwapp/Manipulator.cs"
 "/Users/wgfarrell/devbootcamp/csharp/hwapp/Person.cs"
 "/Users/wgfarrell/devbootcamp/csharp/hwapp/PigLatin.cs"
