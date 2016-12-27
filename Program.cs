@@ -1,6 +1,7 @@
 ﻿using System;
+using Practice.Converter;
 
-namespace ConsoleApplication
+namespace Practice
 {
     public class Program
     {
@@ -10,9 +11,13 @@ namespace ConsoleApplication
             //int[] numbersTwo = { 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 };
             //int returnedOne = ConsoleApplication.BinarySearch.searcher(numbers, 55, 0, numbers.Length);
             //Console.WriteLine(returnedOne);
-            int firstReturned = ConsoleApplication.Fibonacci.Fibonaccer(30);
-            Console.WriteLine(firstReturned);
-            int secondReturned = ConsoleApplication.Fibonacci.Fibonaccer(69);
+            //int firstReturned = Fibonacci.Fibonaccer(30);
+            //Console.WriteLine(firstReturned);
+            //int secondReturned = Fibonacci.Fibonaccer(50);
+            //Console.WriteLine(secondReturned);
+            //RomanNumeralGenerator returnedOne = new RomanNumeralGenerator(69);
+            //Console.WriteLine(returnedOne.displayString);
+            int secondReturned = Fibonacci.Fibonaccer(69);
             Console.WriteLine(secondReturned);
             //int returnedTwo = ConsoleApplication.BinarySearch.searcher(numbersTwo, 3, 0, numbersTwo.Length);
             //Console.WriteLine(returnedTwo);
