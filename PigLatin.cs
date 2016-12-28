@@ -1,6 +1,4 @@
-using System;
-
-namespace ConsoleApplication
+namespace Practice
 {
 
     public class PigLatin

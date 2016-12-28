@@ -1,5 +1,5 @@
 
-namespace ConsoleApplication 
+namespace Practice
 {
     public class Person
     {
